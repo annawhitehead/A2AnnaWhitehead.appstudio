@@ -1,4 +1,4 @@
-/*
+
 // sets variables for prompts
   let name = prompt(`Enter your first name`)
   let userState= prompt(`Enter your abbreviated state`)
@@ -20,5 +20,5 @@
     else if (weather >= 50 && weather <= 70 && userState == 'FL')  {
       console.log(`${name}, ${messages[3]}`)
   }
-  */
+
   
